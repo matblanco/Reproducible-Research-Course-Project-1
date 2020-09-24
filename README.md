@@ -1,16 +1,3 @@
-# "Reproducible Research" Course Project 1 Submission
-
-This is my submission for the Coursera assignment, for the Reproducible Research course.
-
-The files in this repo are:
-
-* The R Markdown document, containing the R code and written explanations, can be found in the file [PA1_template.Rmd](PA1_template.Rmd). The same document, in Markdown format, can be found at [PA1_template.md](PA1_template.md), and the HTML version at [PA1_template.html](PA1_template.html).
-* The [�figure�](figure) folder contains all of the graphs created in the markdown document.
-* The dataset used within the assignment has the file name [�activity.zip�](activity.zip).
-* Image files for rendering the html version of the markdown file: [PA1_template_files](PA1_template_files).
-
-Below is a copy of the original README file, from the original repo, where information on both the raw data set and the course assignment is detailed.
-
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
@@ -137,7 +124,7 @@ the dataset with the filled-in missing values for this part.
 
 1. Make a panel plot containing a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using **simulated data**:
 
-![Sample panel plot](instructions_fig/sample_panelplot.png)
+![Sample panel plot](instructions_fig/sample_panelplot.png) 
 
 
 **Your plot will look different from the one above** because you will
@@ -175,7 +162,7 @@ in GitHub by doing the following:
 A valid submission will look something like (this is just an **example**!)
 
 ```r
-https://github.com/rdpeng/RepData_PeerAssessment17c376cc54
+https://github.com/rdpeng/RepData_PeerAssessment1
 
-47f11537f8740af8e07d6facc3d9645
+7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
